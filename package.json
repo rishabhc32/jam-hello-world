@@ -1,7 +1,7 @@
 {
   "scripts": {
-    "dev": "vuepress dev jam-hello-world",
-    "build": "vuepress build jam-hello-world"
+    "dev": "vuepress dev",
+    "build": "vuepress build"
   },
   "dependencies": {
     "vuepress": "^0.14.2"
