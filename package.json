@@ -1,6 +1,6 @@
 {
     "scripts": {
-      "dev": "vuepress dev",
-      "build": "vuepress build"
+      "dev": "vuepress dev jam-hello-world",
+      "build": "vuepress build jam-hello-world"
     }
   }
