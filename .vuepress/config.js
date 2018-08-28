@@ -1,9 +1,8 @@
 module.exports = {
     home: true,
-    title: 'Hello RC',
-    description: 'Just playing around',
+    title: 'RC',
+    description: 'JAM Stack Hello, World!',
     themeConfig: {
         lastUpdated: 'Last Updated',
-    },
-    footer: 'MIT Licensed | Copyright © 2018-present Evan You'
+    }
 }
