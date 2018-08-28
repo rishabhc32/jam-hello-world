@@ -4,5 +4,8 @@ module.exports = {
     description: 'JAM Stack Hello, World!',
     themeConfig: {
         lastUpdated: 'Last Updated',
+        sidebar: [
+            ['/', 'Home']
+        ]
     }
 }

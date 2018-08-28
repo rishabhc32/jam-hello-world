@@ -1,3 +1,7 @@
+---
+sidebar: false
+---
+
 # Hello, World!
 
 Hi, I am Rishabh Chauhan.  
