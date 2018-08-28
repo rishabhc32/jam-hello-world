@@ -1,6 +1,9 @@
 {
-    "scripts": {
-      "dev": "vuepress dev jam-hello-world",
-      "build": "vuepress build jam-hello-world"
-    }
+  "scripts": {
+    "dev": "vuepress dev jam-hello-world",
+    "build": "vuepress build jam-hello-world"
+  },
+  "dependencies": {
+    "vuepress": "^0.14.2"
   }
+}
